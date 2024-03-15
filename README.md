@@ -8,7 +8,8 @@
 - [E-Mail](mailto:21yrshin@naver.com)
 - [GitHub blog](https://yelm-212.github.io/)
 
-### Tech Stacks
+---
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java Spring Boot Framework](https://img.shields.io/badge/Java%20Spring%20Boot%20Framework-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
