@@ -8,6 +8,9 @@
 - [E-Mail](mailto:21yrshin@naver.com)
 - [GitHub blog](https://yelm-212.github.io/)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghi0412210)](https://solved.ac/ghi0412210)
+
 ---
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
