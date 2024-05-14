@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelm-212&count_bg=%233991E0&title_bg=%235D5D5D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### [Resume](https://www.notion.so/Backend-Engineer-Yerim-Shin-57f78346994c4f09bef81ac58d6c4490?pvs=4)
 
 ### Contacts
 
