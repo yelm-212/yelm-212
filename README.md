@@ -16,7 +16,7 @@
   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 ![Java Spring Boot Framework](https://img.shields.io/badge/Java%20Spring%20Boot%20Framework-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F?style=for-the-badge&logo=OAuth2&logoColor=white)
