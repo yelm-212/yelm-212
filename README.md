@@ -1,7 +1,5 @@
 ## Yerim Shin (yelm-212)
 
-### [Resume](https://www.notion.so/Backend-Engineer-Yerim-Shin-57f78346994c4f09bef81ac58d6c4490?pvs=4)
-
 ### Contacts
 
 - [E-Mail](mailto:21yrshin@naver.com)
