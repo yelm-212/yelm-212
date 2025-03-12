@@ -2,7 +2,7 @@
 
 ### Contacts
 
-- [E-Mail](mailto:21yrshin@naver.com)
+- [E-Mail](mailto:21yrshin@proton.me)
 - [GitHub blog](https://yelm-212.github.io/)
 
 ---
