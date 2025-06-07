@@ -27,3 +27,9 @@
 
 
 </div>
+
+<div align="center">
+<a href="https://hitmeup-backend-593087166771.asia-northeast1.run.app">
+  <img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fyelm-212&title=hits&title_bg=accafb&count_bg=0062ff&edge_flat=false" alt="hits" />
+</a>
+</div>
