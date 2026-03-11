@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=plastic)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 
-![Java Spring Boot Framework](https://img.shields.io/badge/Java%20Spring%20Boot%20Framework-6DB33F?logo=Spring&logoColor=white&style=plastic)
+![Spring Boot Framework](https://img.shields.io/badge/Java%20Spring%20Boot%20Framework-6DB33F?logo=Spring&logoColor=white&style=plastic)
 ![flask](https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=plastic)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=plastic)
