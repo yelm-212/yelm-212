@@ -4,7 +4,7 @@
 
 - [E-Mail](mailto:21yrshin@proton.me)
 - [Digital Garden](https://yelm-quartz.vercel.app/)
-- [~~GitHub blog~~ 'til 2025](https://yelm-212.github.io/)
+- [GitHub blog 'til 2025](https://yelm-212.github.io/)
 
 ---
 
